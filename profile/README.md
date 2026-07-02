@@ -6,6 +6,8 @@ Swift implementations of W3C (World Wide Web Consortium) specifications — a pe
 
 One package per specification, named `swift-w3c-<spec>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`W3C_SVG`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift W3C is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the World Wide Web Consortium.
+
 ## Coverage
 
 | Package | Specification |
