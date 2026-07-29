@@ -8,22 +8,11 @@ One package per specification, named `swift-w3c-<spec>`. Each package implements
 
 > Swift W3C is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the World Wide Web Consortium.
 
-## Coverage
+## Explore
 
-| Package | Specification |
-|---|---|
-| [swift-w3c-css](https://github.com/swift-w3c/swift-w3c-css) | Cascading Style Sheets (CSS) |
-| [swift-w3c-cssom](https://github.com/swift-w3c/swift-w3c-cssom) | CSS Object Model (CSSOM) |
-| [swift-w3c-svg](https://github.com/swift-w3c/swift-w3c-svg) | Scalable Vector Graphics 2 |
-| [swift-w3c-xml](https://github.com/swift-w3c/swift-w3c-xml) | Extensible Markup Language (XML) |
-| [swift-w3c-png](https://github.com/swift-w3c/swift-w3c-png) | Portable Network Graphics (PNG) |
-| [swift-w3c-epub](https://github.com/swift-w3c/swift-w3c-epub) | EPUB 3.3 |
+Browse the [Swift W3C repositories](https://github.com/orgs/swift-w3c/repositories) to find an implementation by specification.
 
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-w3c/repositories) lists them all.
-
-## Status
-
-Public alpha. Maintained by [Coen ten Thije Boonkkamp](https://github.com/coenttb) — contributions welcome via pull request.
+Maintained by [Coen ten Thije Boonkkamp](https://github.com/coenttb) — contributions welcome via pull request.
 
 ## License
 
